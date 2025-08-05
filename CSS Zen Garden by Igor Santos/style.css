@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Principal { color: #ee3939e7; }
+.Segundario { color: #05C503; }
+.Alternativa { color: #9FC131; }
+.Destaque { color: #DBF227; }
+.Fundo-5-hex { color: #D6D58E; }
+
+html {
+    background-color: #D6D58E ;
+    color: #ee3939e7;
+}
+
+a {
+    color: #05C503;
+}
+
+strong {
+    color: #DBF227;
+}
+ 
