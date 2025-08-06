@@ -1,5 +1,5 @@
 /* Color Theme Swatches in Hex */
-.Principal { color: #ee3939e7; }
+.Principal { color: #ca1c1c; }
 .Segundario { color: #05C503; }
 .Alternativa { color: #9FC131; }
 .Destaque { color: #DBF227; }
@@ -7,7 +7,10 @@
 
 html {
     background-color: #D6D58E ;
-    color: #ee3939e7;
+    color: #ca1c1c;
+
+    font-size: 17px;
+    font-family: sans-serif;
 }
 
 a {
@@ -18,3 +21,22 @@ strong {
     color: #DBF227;
 }
  
+p {
+    text-indent: 1em;
+}
+
+h1 {size: 1.8rem;}
+h2 {size: 1.4rem;}
+h3 {size: 1.2rem;}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.summary    {text-align: center;}
+.main p {
+    line-height: 1.5;
+}
+abbr {
+    font-variant: small-caps;
+}
